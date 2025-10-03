@@ -1,0 +1,1387 @@
+
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="theme-color" content="#3b82f6">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="نادي الإنجليزية السعودي">
+
+    <title>أستاذ أحمد - معلم إنجليزي أمريكي معتمد | حصص خصوصية وأونلاين للأطفال السعوديين</title>
+    <meta content="تعلم الإنجليزية الأمريكية للأطفال السعوديين (10-18 سنة) مع أستاذ أحمد المعتمد من جامعة أريزونا. حصص خصوصية وأونلاين، نتائج مضمونة، 500+ طالب. جلسة تجريبية مجانية!" name="description"/>
+    <meta name="keywords" content="تعليم اللغة الإنجليزية, معلم إنجليزي أمريكي, حصص خصوصية إنجليزي, تعليم أطفال السعودية, دروس إنجليزي أونلاين, معلم معتمد, TESOL, لهجة أمريكية"/>
+    <link rel="canonical" href="https://saudienglishclub.com/"/>
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://saudienglishclub.com/"/>
+    <meta property="og:site_name" content="نادي الإنجليزية السعودي"/>
+    <meta property="og:title" content="أستاذ أحمد - معلم إنجليزي أمريكي معتمد للأطفال السعوديين"/>
+    <meta property="og:description" content="معلم معتمد من جامعة أريزونا الأمريكية. حصص خصوصية ومجموعات صغيرة. نتائج مضمونة: في خلال 500 ساعة، راح نفك عقدة اللسان لولدك ونخليه يتكلم إنجليزي بطلاقة وثقة"/>
+    <meta property="og:image" content="https://i.postimg.cc/Pxk53c04/photo-5864035878953928423-y-1.jpg"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:image:alt" content="أستاذ أحمد - معلم إنجليزي أمريكي معتمد من جامعة أريزونا"/>
+    <meta property="og:locale" content="ar_SA"/>
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:url" content="https://saudienglishclub.com/"/>
+    <meta name="twitter:site" content="@saudienglishclub"/>
+    <meta name="twitter:title" content="أستاذ أحمد - معلم إنجليزي أمريكي معتمد"/>
+    <meta name="twitter:description" content="تعلم الإنجليزية الأمريكية مع معلم معتمد. في خلال 500 ساعة، راح نفك عقدة اللسان لولدك ونخليه يتكلم إنجليزي بطلاقة وثقة"/>
+    <meta name="twitter:image" content="https://i.postimg.cc/Pxk53c04/photo-5864035878953928423-y-1.jpg"/>
+    <meta name="twitter:image:alt" content="أستاذ أحمد - معلم إنجليزي أمريكي معتمد من جامعة أريزونا"/>
+
+    <!-- Performance & Speed Optimization -->
+    <link href="https://fonts.googleapis.com" rel="preconnect"/>
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+    <link href="https://cdn.jsdelivr.net" rel="preconnect"/>
+    <link href="https://cdn.tailwindcss.com" rel="preconnect"/>
+    <link href="https://lqpoacfeqnkkhdnsdbuv.supabase.co" rel="preconnect"/>
+    <link href="https://i.postimg.cc" rel="dns-prefetch"/>
+    <link href="https://fast.wistia.com" rel="dns-prefetch"/>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Tajawal:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Tajawal:wght@400;700&display=swap"></noscript>
+
+    <!-- Remix Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: {
+                            50: '#eff6ff',
+                            100: '#dbeafe',
+                            200: '#bfdbfe',
+                            300: '#93c5fd',
+                            400: '#60a5fa',
+                            500: '#3b82f6',
+                            600: '#2563eb',
+                            700: '#1d4ed8',
+                            800: '#1e40af',
+                            900: '#1e3a8a',
+                        },
+                        secondary: {
+                            50: '#f0fdf4',
+                            100: '#dcfce7',
+                            200: '#bbf7d0',
+                            300: '#86efac',
+                            400: '#4ade80',
+                            500: '#22c55e',
+                            600: '#16a34a',
+                            700: '#15803d',
+                            800: '#166534',
+                            900: '#14532d',
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Cairo', 'Tajawal', 'system-ui', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        :root {
+            /* Brand Colors - Semantic Tokens */
+            --primary: 217 91% 60%;
+            --primary-dark: 217 91% 50%;
+            --primary-light: 217 91% 70%;
+            --success: 142 76% 36%;
+            --success-light: 142 76% 96%;
+            --whatsapp: 142 70% 49%;
+            --whatsapp-dark: 174 63% 32%;
+            
+            /* Gradients */
+            --gradient-primary: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--primary-light)));
+            --gradient-success: linear-gradient(135deg, hsl(var(--success)), hsl(var(--whatsapp)));
+            --gradient-hero: linear-gradient(135deg, hsl(217 91% 60% / 0.05), hsl(142 76% 36% / 0.05));
+            --gradient-card-popular: linear-gradient(135deg, hsl(142 76% 96%), hsl(0 0% 100%));
+            
+            /* Shadows */
+            --shadow-sm: 0 1px 3px 0 hsl(0 0% 0% / 0.1);
+            --shadow-md: 0 4px 6px -1px hsl(0 0% 0% / 0.1);
+            --shadow-lg: 0 20px 25px -5px hsl(0 0% 0% / 0.1);
+            --shadow-primary: 0 10px 30px -10px hsl(var(--primary) / 0.3);
+            
+            /* Transitions */
+            --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-bounce: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+        }
+
+        * { font-family: 'Cairo', 'Tajawal', system-ui, sans-serif; }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes slideInRight {
+            from { transform: translateX(100%); }
+            to { transform: translateX(0); }
+        }
+
+        .animate-fadeIn { animation: fadeIn 0.5s ease-out; }
+
+        .animate-on-scroll {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+        }
+
+        .animate-on-scroll.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Header */
+        .site-header {
+            backdrop-filter: blur(12px);
+            background: hsl(0 0% 100% / 0.95);
+            transition: var(--transition-smooth);
+        }
+
+        .site-header.scrolled {
+            background: hsl(0 0% 100% / 0.98);
+            box-shadow: var(--shadow-md);
+        }
+
+        /* WhatsApp Button */
+        .whatsapp-button {
+            background: var(--gradient-success);
+            transition: var(--transition-bounce);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .whatsapp-button:hover {
+            transform: scale(1.05);
+            box-shadow: var(--shadow-md);
+        }
+
+        /* Cards */
+        .modern-card {
+            background: hsl(0 0% 100%);
+            border-radius: 1rem;
+            padding: 1.5rem;
+            box-shadow: var(--shadow-sm);
+            border: 1px solid hsl(0 0% 0% / 0.05);
+            transition: var(--transition-smooth);
+        }
+
+        .modern-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        /* Mobile Menu */
+        .mobile-menu {
+            animation: slideInRight 0.3s ease-out;
+        }
+
+        /* Video Container */
+        .video-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 0.75rem;
+        }
+
+        /* Pricing Cards */
+        .pricing-card {
+            transition: var(--transition-smooth);
+            border: 2px solid transparent;
+            position: relative;
+        }
+
+        .pricing-card:hover {
+            transform: translateY(-8px);
+            border-color: hsl(var(--primary));
+            box-shadow: var(--shadow-primary);
+        }
+
+        .pricing-card.popular {
+            border-color: hsl(var(--success));
+            background: var(--gradient-card-popular);
+        }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans">
+    <!-- Enhanced Header -->
+    <header class="site-header fixed top-0 left-0 right-0 z-40">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16 sm:h-20">
+                <!-- Logo -->
+                <div class="flex-shrink-0">
+                    <h1 class="text-xl sm:text-2xl font-bold text-primary-600">نادي الإنجليزية السعودي</h1>
+                </div>
+
+                <!-- Desktop Navigation -->
+                <nav class="hidden lg:flex items-center space-x-8 space-x-reverse">
+                    <a href="#home" class="text-gray-700 hover:text-primary-600 transition-colors">الرئيسية</a>
+                    <a href="#about" class="text-gray-700 hover:text-primary-600 transition-colors">معلمنا</a>
+                    <a href="#study-plan" class="text-gray-700 hover:text-primary-600 transition-colors">خطة الدراسة</a>
+                    <a href="#pricing" class="text-gray-700 hover:text-primary-600 transition-colors">الأسعار</a>
+                    <a href="#testimonials" class="text-gray-700 hover:text-primary-600 transition-colors">آراء الأهالي</a>
+                    <a href="#free-materials" class="text-gray-700 hover:text-primary-600 transition-colors">موارد مجانية</a>
+                </nav>
+
+                <!-- CTA Buttons -->
+                <div class="hidden lg:flex items-center space-x-4 space-x-reverse">
+                    <a href="https://wa.me/966564084838?text=أريد حجز جلسة تجريبية مجانية مع أستاذ أحمد" class="whatsapp-button text-white px-4 py-2 rounded-lg font-medium" target="_blank" rel="noopener noreferrer">
+                        <i class="ri-whatsapp-line ml-2"></i>
+                        جلسة تجريبية مجانية
+                    </a>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button id="mobile-menu-toggle" class="lg:hidden p-2 rounded-lg text-gray-600 hover:text-gray-900 hover:bg-gray-100" aria-label="فتح القائمة">
+                    <span class="block w-6 h-0.5 bg-current mb-1 transition-all duration-300"></span>
+                    <span class="block w-6 h-0.5 bg-current mb-1 transition-all duration-300"></span>
+                    <span class="block w-6 h-0.5 bg-current transition-all duration-300"></span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Enhanced Mobile Menu -->
+        <div id="mobile-menu" class="lg:hidden fixed inset-y-0 left-0 w-80 bg-white shadow-xl mobile-menu hidden">
+            <div class="p-6">
+                <div class="flex items-center justify-between mb-8">
+                    <h2 class="text-xl font-bold text-gray-900">القائمة</h2>
+                    <button onclick="closeMobileMenu()" class="p-2 text-gray-400 hover:text-gray-600">
+                        <i class="ri-close-line text-2xl"></i>
+                    </button>
+                </div>
+
+                <nav class="space-y-4">
+                    <a href="#home" onclick="closeMobileMenu()" class="block py-3 px-4 text-gray-700 hover:bg-gray-50 rounded-lg transition-colors">الرئيسية</a>
+                    <a href="#about" onclick="closeMobileMenu()" class="block py-3 px-4 text-gray-700 hover:bg-gray-50 rounded-lg transition-colors">معلمنا</a>
+                    <a href="#study-plan" onclick="closeMobileMenu()" class="block py-3 px-4 text-gray-700 hover:bg-gray-50 rounded-lg transition-colors">خطة الدراسة</a>
+                    <a href="#pricing" onclick="closeMobileMenu()" class="block py-3 px-4 text-gray-700 hover:bg-gray-50 rounded-lg transition-colors">الأسعار</a>
+                    <a href="#testimonials" onclick="closeMobileMenu()" class="block py-3 px-4 text-gray-700 hover:bg-gray-50 rounded-lg transition-colors">آراء الأهالي</a>
+                    <a href="#free-materials" onclick="closeMobileMenu()" class="block py-3 px-4 text-gray-700 hover:bg-gray-50 rounded-lg transition-colors">موارد مجانية</a>
+                </nav>
+
+                <div class="mt-8 pt-8 border-t border-gray-200">
+                    <a href="https://wa.me/966564084838?text=أريد حجز جلسة تجريبية مجانية مع أستاذ أحمد" class="whatsapp-button w-full text-white py-3 rounded-lg font-medium flex items-center justify-center" target="_blank" rel="noopener noreferrer">
+                        <i class="ri-whatsapp-line ml-2"></i>
+                        جلسة تجريبية مجانية
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-primary-50 via-white to-secondary-50 pt-20" id="home">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                <!-- Content -->
+                <div class="text-center lg:text-right animate-on-scroll">
+                    <span class="inline-block bg-primary-100 text-primary-800 px-4 py-2 rounded-full text-sm font-medium mb-6">معلم إنجليزي أمريكي معتمد</span>
+                    <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+                        أطفالكم يستاهلون
+                        <span class="text-primary-600">يتكلمون إنجليزي</span>
+                        مثل الأمريكان تماماً
+                    </h1>
+
+                    <!-- Enhanced Promise Section -->
+                    <div class="bg-gradient-to-r from-primary-600 to-primary-700 p-6 sm:p-8 rounded-2xl text-white mb-8">
+                        <h3 class="text-2xl sm:text-3xl font-bold mb-4">وعدنا لك</h3>
+                        <p class="text-xl mb-6">في خلال 500 ساعة، راح نفك عقدة اللسان لولدك ونخليه يتكلم إنجليزي بطلاقة وثقة بدون ملل أو تعقيد!</p>
+                        <div class="flex flex-wrap justify-center gap-4 text-sm">
+                            <span class="bg-white/20 px-4 py-2 rounded-full">✅ نطق أمريكي أصيل</span>
+                            <span class="bg-white/20 px-4 py-2 rounded-full">✅ ثقة عالية في التعبير</span>
+                        </div>
+                    </div>
+
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-end mb-8">
+                        <a href="https://wa.me/966564084838?text=أريد حجز جلسة تجريبية مجانية مع أستاذ أحمد - معلم أمريكي معتمد" class="whatsapp-button text-white px-8 py-4 rounded-xl font-bold text-lg shadow-lg hover:shadow-xl transition-all duration-300" target="_blank" rel="noopener noreferrer">
+                            <i class="ri-whatsapp-line ml-3"></i>
+                            احجز جلستك المجانية الآن
+                        </a>
+                        <button onclick="openVideoModal()" class="bg-white text-primary-600 px-8 py-4 rounded-xl font-bold text-lg border-2 border-primary-200 hover:border-primary-300 hover:bg-primary-50 transition-all duration-300">
+                            <i class="ri-play-circle-line ml-3"></i>
+                            شاهد الفيديو التعريفي
+                        </button>
+                    </div>
+
+                    <div class="grid grid-cols-3 gap-8 max-w-md mx-auto lg:mx-0 lg:max-w-none lg:grid-cols-3">
+                        <div class="text-center">
+                            <div class="text-3xl font-bold text-primary-600 mb-2">500+</div>
+                            <p class="text-gray-600 text-sm">طالب وطالبة استفادوا</p>
+                        </div>
+                        <div class="text-center">
+                            <div class="text-3xl font-bold text-green-600 mb-2">95%</div>
+                            <p class="text-gray-600 text-sm">نسبة النجاح في أول شهر</p>
+                        </div>
+                        <div class="text-center">
+                            <div class="text-3xl font-bold text-blue-600 mb-2">7+</div>
+                            <p class="text-gray-600 text-sm">سنوات خبرة</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Image -->
+                <div class="flex justify-center lg:justify-start animate-on-scroll">
+                    <div class="relative">
+                        <img alt="أستاذ أحمد - معلم إنجليزي أمريكي معتمد TESOL من جامعة أريزونا لتعليم الأطفال السعوديين"
+                             class="rounded-2xl shadow-2xl w-full max-w-sm"
+                             src="https://i.postimg.cc/Pxk53c04/photo-5864035878953928423-y-1.jpg"
+                             width="300" height="400" loading="lazy"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Teacher Section -->
+    <section class="py-20 bg-white" id="about">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+                <div class="text-center mb-16 animate-on-scroll">
+                    <span class="inline-block bg-primary-100 text-primary-800 px-4 py-2 rounded-full text-sm font-medium mb-4">معلمنا</span>
+                    <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6">تعرف على أستاذ أحمد</h2>
+                    <p class="text-gray-600 text-lg">معلم إنجليزي أمريكي معتمد من جامعة أريزونا الأمريكية</p>
+                </div>
+
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center animate-on-scroll">
+                    <div class="space-y-8">
+                        <div class="modern-card">
+                            <h3 class="text-2xl font-bold text-gray-800 mb-6">أستاذ أحمد</h3>
+                            <p class="text-lg text-gray-700 mb-6">مؤسس النادي ومعلم معتمد</p>
+
+                            <div class="space-y-4">
+                                <div class="flex items-center space-x-3 space-x-reverse">
+                                    <div class="w-2 h-2 bg-primary-600 rounded-full"></div>
+                                    <span class="text-gray-700">شهادة TESOL من جامعة أريزونا الأمريكية</span>
+                                </div>
+                                <div class="flex items-center space-x-3 space-x-reverse">
+                                    <div class="w-2 h-2 bg-primary-600 rounded-full"></div>
+                                    <span class="text-gray-700">خبرة مع المجلس الثقافي البريطاني</span>
+                                </div>
+                                <div class="flex items-center space-x-3 space-x-reverse">
+                                    <div class="w-2 h-2 bg-primary-600 rounded-full"></div>
+                                    <span class="text-gray-700">95% من الطلاب يتحسنون في أول شهر</span>
+                                </div>
+                                <div class="flex items-center space-x-3 space-x-reverse">
+                                    <div class="w-2 h-2 bg-primary-600 rounded-full"></div>
+                                    <span class="text-gray-700">درّس أكثر من 500 طالب سعودي</span>
+                                </div>
+                                <div class="flex items-center space-x-3 space-x-reverse">
+                                    <div class="w-2 h-2 bg-primary-600 rounded-full"></div>
+                                    <span class="text-gray-700">خبرة 7+ سنوات في التعليم</span>
+                                </div>
+                            </div>
+
+                            <div class="mt-8 p-4 bg-primary-50 rounded-lg">
+                                <p class="text-primary-800 font-semibold text-center">
+                                    "هدفي: كل طفل يتكلم إنجليزي بثقة"
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="flex justify-center">
+                        <img alt="أستاذ أحمد - معلم إنجليزي أمريكي معتمد TESOL من جامعة أريزونا"
+                             class="rounded-2xl shadow-lg w-full max-w-sm"
+                             src="https://i.postimg.cc/Pxk53c04/photo-5864035878953928423-y-1.jpg"
+                             loading="lazy"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Study Plan Section -->
+    <section class="py-20 bg-gray-50" id="study-plan">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16 animate-on-scroll">
+                <span class="inline-block bg-primary-100 text-primary-800 px-4 py-2 rounded-full text-sm font-medium mb-4">خطة الدراسة</span>
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6 leading-tight">خطة دراسية شاملة: 500 ساعة لجميع المستويات</h2>
+                <p class="text-gray-600 max-w-3xl mx-auto text-lg leading-relaxed">برنامج متدرج ومتوازن يغطي جميع مستويات اللغة الإنجليزية من المبتدئ للمتقدم</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6 max-w-7xl mx-auto mb-12">
+                <!-- A1 Level -->
+                <div class="modern-card bg-gradient-to-br from-green-50 to-emerald-100 border-2 border-green-200 rounded-xl p-6 text-center hover:border-green-300 hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
+                    <div class="w-20 h-20 bg-green-500 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-3xl">
+                        <i class="ri-seedling-line"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-green-800 mb-3">المستوى A1</h3>
+                    <div class="text-4xl font-black text-green-600 mb-3">100 ساعة</div>
+                    <p class="text-green-700 text-base mb-6">مبتدئ - أساسيات اللغة</p>
+                    <ul class="text-green-700 text-sm space-y-2 text-right">
+                        <li>• الكلمات الأساسية</li>
+                        <li>• الجمل البسيطة</li>
+                        <li>• الضمائر والألوان</li>
+                        <li>• الأرقام والأيام</li>
+                    </ul>
+                </div>
+
+                <!-- A2 Level -->
+                <div class="modern-card bg-gradient-to-br from-blue-50 to-indigo-100 border-2 border-blue-200 rounded-xl p-6 text-center hover:border-blue-300 hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
+                    <div class="w-20 h-20 bg-blue-500 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-3xl">
+                        <i class="ri-compass-3-line"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-blue-800 mb-3">المستوى A2</h3>
+                    <div class="text-4xl font-black text-blue-600 mb-3">100 ساعة</div>
+                    <p class="text-blue-700 text-base mb-6">أساسي - محادثات يومية</p>
+                    <ul class="text-blue-700 text-sm space-y-2 text-right">
+                        <li>• الأزمنة الأساسية</li>
+                        <li>• المحادثات البسيطة</li>
+                        <li>• الوصف والتعبير</li>
+                        <li>• القواعد الأساسية</li>
+                    </ul>
+                </div>
+
+                <!-- B1 Level -->
+                <div class="modern-card bg-gradient-to-br from-yellow-50 to-amber-100 border-2 border-yellow-200 rounded-xl p-6 text-center hover:border-yellow-300 hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
+                    <div class="w-20 h-20 bg-yellow-500 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-3xl">
+                        <i class="ri-flight-takeoff-line"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-yellow-800 mb-3">المستوى B1</h3>
+                    <div class="text-4xl font-black text-yellow-600 mb-3">150 ساعة</div>
+                    <p class="text-yellow-700 text-base mb-6">متوسط - طلاقة في التحدث</p>
+                    <ul class="text-yellow-700 text-sm space-y-2 text-right">
+                        <li>• الأزمنة المتقدمة</li>
+                        <li>• المحادثات المعقدة</li>
+                        <li>• التعبير عن الآراء</li>
+                        <li>• الفهم والاستيعاب</li>
+                    </ul>
+                </div>
+
+                <!-- B2 Level -->
+                <div class="modern-card bg-gradient-to-br from-purple-50 to-violet-100 border-2 border-purple-200 rounded-xl p-6 text-center hover:border-purple-300 hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
+                    <div class="w-20 h-20 bg-purple-500 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-3xl">
+                        <i class="ri-rocket-line"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-purple-800 mb-3">المستوى B2</h3>
+                    <div class="text-4xl font-black text-purple-600 mb-3">150 ساعة</div>
+                    <p class="text-purple-700 text-base mb-6">فوق المتوسط - إتقان متقدم</p>
+                    <ul class="text-purple-700 text-sm space-y-2 text-right">
+                        <li>• القواعد المتقدمة</li>
+                        <li>• المحادثات الأكاديمية</li>
+                        <li>• الكتابة المتقدمة</li>
+                        <li>• الفهم العميق</li>
+                    </ul>
+                </div>
+
+                <!-- C1 Level -->
+                <div class="modern-card bg-gradient-to-br from-red-50 to-rose-100 border-2 border-red-200 rounded-xl p-6 text-center hover:border-red-300 hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
+                    <div class="w-20 h-20 bg-red-500 rounded-full flex items-center justify-center mx-auto mb-4 text-white text-3xl">
+                        <i class="ri-trophy-line"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-red-800 mb-3">المستوى C1</h3>
+                    <div class="text-4xl font-black text-red-600 mb-3">200 ساعة</div>
+                    <p class="text-red-700 text-base mb-6">متقدم - إتقان كامل</p>
+                    <ul class="text-red-700 text-sm space-y-2 text-right">
+                        <li>• الإتقان الكامل</li>
+                        <li>• المحادثات المتقدمة</li>
+                        <li>• الكتابة الأكاديمية</li>
+                        <li>• الفهم الشامل</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Enhanced Pricing Section -->
+    <section class="py-20 bg-white" id="pricing">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16 animate-on-scroll">
+                <span class="inline-block bg-primary-100 text-primary-800 px-4 py-2 rounded-full text-sm font-medium mb-4">الأسعار</span>
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6">اختر الباقة المناسبة لك</h2>
+                <p class="text-gray-600 text-lg mb-8">حصص خصوصية أو مجموعات صغيرة مع أستاذ أحمد المعتمد</p>
+
+                <!-- Simple Toggle -->
+                <div class="inline-flex bg-gray-100 p-1 rounded-xl max-w-md mx-auto">
+                    <button class="service-tab active text-primary-600 bg-white px-6 py-3 rounded-lg font-medium transition-all" data-service="private">حصص خصوصية</button>
+                    <button class="service-tab text-gray-600 px-6 py-3 rounded-lg font-medium transition-all" data-service="group">مجموعات صغيرة</button>
+                </div>
+            </div>
+
+            <!-- Private Lessons Pricing -->
+            <div id="private-pricing" class="pricing-section">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+                    <!-- 8 Hours Package -->
+                    <div class="pricing-card modern-card text-center border-t-4 border-blue-500">
+                        <div class="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="ri-user-line text-xl text-blue-600"></i>
+                        </div>
+                        <h4 class="text-xl font-bold text-gray-800 mb-2">8 حصص</h4>
+                        <div class="text-3xl font-black text-primary-600 my-4">
+                            45 <img alt="الريال السعودي" class="inline-block h-6 w-6 -mt-1" src="https://www.sama.gov.sa/ar-sa/Currency/Documents/Saudi_Riyal_Symbol-2.svg" style="filter: invert(37%) sepia(99%) saturate(1200%) hue-rotate(210deg) brightness(95%) contrast(95%); color: #3b82f6;"/> /حصة
+                        </div>
+                        <p class="text-sm text-gray-500 mb-6">جرب الخدمة وشوف النتائج</p>
+                        <ul class="space-y-3 text-right mb-8 text-sm">
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>حصص خصوصية فردية</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>جدولة مرنة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>متابعة أسبوعية</span>
+                            </li>
+                        </ul>
+                        <a class="whatsapp-button w-full" href="https://wa.me/966564084838?text=أرغب في حجز حصص خصوصية - باقة 8 حصص" target="_blank" rel="noopener noreferrer">
+                            <i class="ri-whatsapp-line ml-2"></i>
+                            احجز الآن
+                        </a>
+                    </div>
+
+                    <!-- 16 Hours Package -->
+                    <div class="pricing-card modern-card text-center border-t-4 border-green-500 popular">
+                        <div class="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+                            <span class="bg-green-500 text-white px-3 py-1 rounded-full text-xs font-medium">الأكثر طلباً</span>
+                        </div>
+                        <div class="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="ri-user-star-line text-xl text-green-600"></i>
+                        </div>
+                        <h4 class="text-xl font-bold text-gray-800 mb-2">16 حصة</h4>
+                        <div class="text-3xl font-black text-primary-600 my-4">
+                            <span class="line-through text-gray-400 text-lg">50</span> 40 <img alt="الريال السعودي" class="inline-block h-6 w-6 -mt-1" src="https://www.sama.gov.sa/ar-sa/Currency/Documents/Saudi_Riyal_Symbol-2.svg" style="filter: invert(37%) sepia(99%) saturate(1200%) hue-rotate(210deg) brightness(95%) contrast(95%); color: #3b82f6;"/> /حصة
+                        </div>
+                        <p class="text-sm text-gray-500 mb-6">وفر 160 ريال!</p>
+                        <ul class="space-y-3 text-right mb-8 text-sm">
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>خصم 10 ريال لكل حصة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>خطة تعليمية شاملة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>تقارير تقدم مفصلة</span>
+                            </li>
+                        </ul>
+                        <a class="whatsapp-button w-full" href="https://wa.me/966564084838?text=أرغب في حجز حصص خصوصية - باقة 16 حصة" target="_blank" rel="noopener noreferrer">
+                            <i class="ri-whatsapp-line ml-2"></i>
+                            احجز الآن
+                        </a>
+                    </div>
+
+                    <!-- 24 Hours Package -->
+                    <div class="pricing-card modern-card text-center border-t-4 border-purple-500">
+                        <div class="w-14 h-14 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="ri-vip-crown-line text-xl text-purple-600"></i>
+                        </div>
+                        <h4 class="text-xl font-bold text-gray-800 mb-2">24 حصة</h4>
+                        <div class="text-3xl font-black text-primary-600 my-4">
+                            <span class="line-through text-gray-400 text-lg">45</span> 35 <img alt="الريال السعودي" class="inline-block h-6 w-6 -mt-1" src="https://www.sama.gov.sa/ar-sa/Currency/Documents/Saudi_Riyal_Symbol-2.svg" style="filter: invert(37%) sepia(99%) saturate(1200%) hue-rotate(210deg) brightness(95%) contrast(95%); color: #3b82f6;"/> /حصة
+                        </div>
+                        <p class="text-sm text-gray-500 mb-6">وفر 240 ريال!</p>
+                        <ul class="space-y-3 text-right mb-8 text-sm">
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>خصم 10 ريال لكل حصة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>أولوية في الجدولة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>شهادة إتمام معتمدة</span>
+                            </li>
+                        </ul>
+                        <a class="whatsapp-button w-full" href="https://wa.me/966564084838?text=أرغب في حجز حصص خصوصية - باقة 24 حصة" target="_blank" rel="noopener noreferrer">
+                            <i class="ri-whatsapp-line ml-2"></i>
+                            احجز الآن
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Group Lessons Pricing -->
+            <div id="group-pricing" class="pricing-section hidden">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+                    <!-- 16 Hours Group Package -->
+                    <div class="pricing-card modern-card text-center border-t-4 border-blue-500">
+                        <div class="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="ri-group-line text-xl text-blue-600"></i>
+                        </div>
+                        <h4 class="text-xl font-bold text-gray-800 mb-2">16 حصة</h4>
+                        <div class="text-3xl font-black text-primary-600 my-4">
+                            25 <img alt="الريال السعودي" class="inline-block h-6 w-6 -mt-1" src="https://www.sama.gov.sa/ar-sa/Currency/Documents/Saudi_Riyal_Symbol-2.svg" style="filter: invert(37%) sepia(99%) saturate(1200%) hue-rotate(210deg) brightness(95%) contrast(95%); color: #3b82f6;"/> /حصة
+                        </div>
+                        <p class="text-sm text-gray-500 mb-6">مجموعات صغيرة (2-3 طلاب)</p>
+                        <ul class="space-y-3 text-right mb-8 text-sm">
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>تفاعل مع الأقران</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>أسعار مخفضة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>جدولة منتظمة</span>
+                            </li>
+                        </ul>
+                        <a class="whatsapp-button w-full" href="https://wa.me/966564084838?text=أرغب في حجز مجموعات صغيرة - باقة 16 حصة" target="_blank" rel="noopener noreferrer">
+                            <i class="ri-whatsapp-line ml-2"></i>
+                            احجز الآن
+                        </a>
+                    </div>
+
+                    <!-- 24 Hours Group Package -->
+                    <div class="pricing-card modern-card text-center border-t-4 border-green-500 popular">
+                        <div class="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+                            <span class="bg-green-500 text-white px-3 py-1 rounded-full text-xs font-medium">الأكثر طلباً</span>
+                        </div>
+                        <div class="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="ri-group-2-line text-xl text-green-600"></i>
+                        </div>
+                        <h4 class="text-xl font-bold text-gray-800 mb-2">24 حصة</h4>
+                        <div class="text-3xl font-black text-primary-600 my-4">
+                            <span class="line-through text-gray-400 text-lg">30</span> 22 <img alt="الريال السعودي" class="inline-block h-6 w-6 -mt-1" src="https://www.sama.gov.sa/ar-sa/Currency/Documents/Saudi_Riyal_Symbol-2.svg" style="filter: invert(37%) sepia(99%) saturate(1200%) hue-rotate(210deg) brightness(95%) contrast(95%); color: #3b82f6;"/> /حصة
+                        </div>
+                        <p class="text-sm text-gray-500 mb-6">وفر 192 ريال!</p>
+                        <ul class="space-y-3 text-right mb-8 text-sm">
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>خصم 8 ريال لكل حصة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>خطة تعليمية شاملة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>شهادة إتمام معتمدة</span>
+                            </li>
+                        </ul>
+                        <a class="whatsapp-button w-full" href="https://wa.me/966564084838?text=أرغب في حجز مجموعات صغيرة - باقة 24 حصة" target="_blank" rel="noopener noreferrer">
+                            <i class="ri-whatsapp-line ml-2"></i>
+                            احجز الآن
+                        </a>
+                    </div>
+
+                    <!-- 32 Hours Group Package -->
+                    <div class="pricing-card modern-card text-center border-t-4 border-purple-500">
+                        <div class="w-14 h-14 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="ri-group-3-line text-xl text-purple-600"></i>
+                        </div>
+                        <h4 class="text-xl font-bold text-gray-800 mb-2">32 حصة</h4>
+                        <div class="text-3xl font-black text-primary-600 my-4">
+                            <span class="line-through text-gray-400 text-lg">35</span> 22 <img alt="الريال السعودي" class="inline-block h-6 w-6 -mt-1" src="https://www.sama.gov.sa/ar-sa/Currency/Documents/Saudi_Riyal_Symbol-2.svg" style="filter: invert(37%) sepia(99%) saturate(1200%) hue-rotate(210deg) brightness(95%) contrast(95%); color: #3b82f6;"/> /حصة
+                        </div>
+                        <p class="text-sm text-gray-500 mb-6">وفر 416 ريال!</p>
+                        <ul class="space-y-3 text-right mb-8 text-sm">
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>خصم 13 ريال لكل حصة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>خطة تعليمية شاملة</span>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="ri-check-line text-green-500 ml-2"></i>
+                                <span>شهادة إتمام معتمدة</span>
+                            </li>
+                        </ul>
+                        <a class="whatsapp-button w-full" href="https://wa.me/966564084838?text=أرغب في حجز مجموعات صغيرة - باقة 32 حصة" target="_blank" rel="noopener noreferrer">
+                            <i class="ri-whatsapp-line ml-2"></i>
+                            احجز الآن
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="py-20 bg-gray-50" id="testimonials">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16 animate-on-scroll">
+                <span class="inline-block bg-primary-100 text-primary-800 px-4 py-2 rounded-full text-sm font-medium mb-4">آراء الأهالي</span>
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6">نتائج حقيقية من عائلات سعودية</h2>
+                <p class="text-gray-600 text-lg">قصص نجاح حقيقية من أهالي استفادوا من خدماتنا</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+                <div class="modern-card animate-on-scroll">
+                    <img alt="تقييم 5 نجوم من ولي أمر لطالب في دروس الإنجليزية مع أستاذ أحمد - نتائج ممتازة وتحسن ملحوظ"
+                         class="w-full h-48 object-cover rounded-lg mb-4"
+                         src="https://i.postimg.cc/8zDTW9Gq/0r.jpg" loading="lazy"/>
+                    <div class="text-center">
+                        <div class="flex justify-center mb-2">
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                        </div>
+                        <p class="text-gray-700 mb-2">"ابني صار يتكلم إنجليزي بثقة بعد شهرين فقط!"</p>
+                        <p class="text-sm text-gray-500">أم محمد - الرياض</p>
+                    </div>
+                </div>
+
+                <div class="modern-card animate-on-scroll">
+                    <img alt="شهادة أهل طالب عن تطور مستوى الإنجليزية بعد حصص أستاذ أحمد المعتمد - ثقة وطلاقة في التحدث"
+                         class="w-full h-48 object-cover rounded-lg mb-4"
+                         src="https://i.postimg.cc/tRw0df3B/1-r.jpg" loading="lazy"/>
+                    <div class="text-center">
+                        <div class="flex justify-center mb-2">
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                        </div>
+                        <p class="text-gray-700 mb-2">"معلم محترف وطريقة تعليم ممتازة"</p>
+                        <p class="text-sm text-gray-500">أبو عبدالله - جدة</p>
+                    </div>
+                </div>
+
+                <div class="modern-card animate-on-scroll">
+                    <img alt="تجربة ناجحة لعائلة سعودية مع معلم إنجليزي أمريكي معتمد - 95% تحسن في المحادثة خلال شهر"
+                         class="w-full h-48 object-cover rounded-lg mb-4"
+                         src="https://i.postimg.cc/XY84gL7X/2r.jpg" loading="lazy"/>
+                    <div class="text-center">
+                        <div class="flex justify-center mb-2">
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                            <i class="ri-star-fill text-yellow-400"></i>
+                        </div>
+                        <p class="text-gray-700 mb-2">"نتائج مذهلة في وقت قياسي!"</p>
+                        <p class="text-sm text-gray-500">أم سارة - الدمام</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center animate-on-scroll">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
+                    <div class="bg-blue-50 p-6 rounded-xl">
+                        <div class="text-3xl font-bold text-blue-600 mb-2">500+</div>
+                        <p class="text-blue-800">طالب وطالبة استفادوا</p>
+                    </div>
+                    <div class="bg-green-50 p-6 rounded-xl">
+                        <div class="text-3xl font-bold text-green-600 mb-2">95%</div>
+                        <p class="text-green-800">نسبة النجاح في أول شهر</p>
+                    </div>
+                    <div class="bg-yellow-50 p-6 rounded-xl">
+                        <div class="text-3xl font-bold text-yellow-600 mb-2">5/5</div>
+                        <p class="text-yellow-800">تقييم الأهالي</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Enhanced Free Materials Section -->
+    <section class="py-20 bg-white" id="free-materials">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16 animate-on-scroll">
+                <span class="inline-block bg-primary-100 text-primary-800 px-4 py-2 rounded-full text-sm font-medium mb-4">موارد مجانية</span>
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6 leading-tight">أدوات تساعدك في البيت</h2>
+                <p class="text-gray-600 text-lg leading-relaxed">موارد مجانية ومفيدة تدعم رحلة التعلم وتخليك جزء من النجاح</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                <!-- Enhanced Ebook Card -->
+                <div class="modern-card rounded-2xl p-8 flex flex-col items-center text-center hover:shadow-xl transition-all duration-300">
+                    <div class="bg-gradient-to-r from-blue-500 to-purple-600 w-20 h-20 rounded-full flex items-center justify-center mb-6 text-white text-3xl">
+                        <i class="ri-book-open-line"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-gray-800 mb-4">كتيب: 7 طرق تعلّم ولدك إنجليزي في البيت</h3>
+                    <p class="text-gray-600 mb-8 leading-relaxed">دليل عملي من وحي خبرتنا في تدريس المئات، فيه نصائح تقدر تطبقها اليوم نفسه بدون تعقيد أو ملل.</p>
+                    <button class="px-8 py-4 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-xl hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 font-semibold shadow-lg" onclick="openEbookModal()">
+                        احصل عليه الحين (PDF)
+                    </button>
+                </div>
+
+                <!-- Enhanced Sentences Card -->
+                <div class="modern-card rounded-2xl p-8 flex flex-col items-center text-center hover:shadow-xl transition-all duration-300">
+                    <div class="bg-gradient-to-r from-green-500 to-teal-600 w-20 h-20 rounded-full flex items-center justify-center mb-6 text-white text-3xl">
+                        <i class="ri-chat-1-line"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-gray-800 mb-4">30 جملة للمحادثات اليومية</h3>
+                    <p class="text-gray-600 mb-8 leading-relaxed">أهم الجمل اللي يحتاجها ولدك في المدرسة، مع الأصدقاء، وفي المتاجر - بطريقة سهلة وسريعة بدون حفظ ممل.</p>
+                    <button class="px-8 py-4 bg-gradient-to-r from-green-500 to-teal-600 text-white rounded-xl hover:from-green-600 hover:to-teal-700 transition-all duration-300 transform hover:scale-105 font-semibold shadow-lg" onclick="openSentencesModal()">
+                        شاهد الجمل الحين
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-primary-700 text-white pt-20 pb-8" id="contact">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 pb-12">
+                <div>
+                    <h3 class="text-3xl font-bold mb-6">أستاذ أحمد</h3>
+                    <p class="text-blue-100 mb-6 leading-relaxed">معلم إنجليزي معتمد من جامعة أريزونا الأمريكية. نقدم حصص خصوصية ومجموعات صغيرة (2-5 طلاب) للأطفال من عمر 10-18 سنة، بطريقة تحترم ثقافتنا وقيمنا.</p>
+                    <div class="flex space-x-6 space-x-reverse">
+                        <a aria-label="Facebook" class="text-2xl text-blue-100 hover:text-white transition-colors duration-300" href="https://facebook.com/saudienglishclub" rel="noopener noreferrer" target="_blank">
+                            <i class="ri-facebook-circle-fill"></i>
+                        </a>
+                        <a aria-label="Instagram" class="text-2xl text-blue-100 hover:text-white transition-colors duration-300" href="https://instagram.com/saudienglishclub" rel="noopener noreferrer" target="_blank">
+                            <i class="ri-instagram-line"></i>
+                        </a>
+                        <a aria-label="WhatsApp" class="text-2xl text-blue-100 hover:text-white transition-colors duration-300" href="https://wa.me/966564084838" rel="noopener noreferrer" target="_blank">
+                            <i class="ri-whatsapp-line"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div>
+                    <h3 class="text-xl font-bold mb-6">روابط سريعة</h3>
+                    <div class="grid grid-cols-2 gap-2">
+                        <ul class="space-y-3 text-sm">
+                            <li><a class="hover:text-blue-200 transition-colors" href="#home">الرئيسية</a></li>
+                            <li><a class="hover:text-blue-200 transition-colors" href="#study-plan">خطة الدراسة</a></li>
+                            <li><a class="hover:text-blue-200 transition-colors" href="#about">معلّمنا</a></li>
+                            <li><a class="hover:text-blue-200 transition-colors" href="#pricing">الأسعار</a></li>
+                        </ul>
+                        <ul class="space-y-3 text-sm">
+                            <li><a class="hover:text-blue-200 transition-colors" href="#testimonials">آراء الأهالي</a></li>
+                            <li><a class="hover:text-blue-200 transition-colors" href="#free-materials">موارد مجانية</a></li>
+                            <li><a class="hover:text-blue-200 transition-colors" href="privacy-policy.html">الخصوصية</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div>
+                    <h3 class="text-xl font-bold mb-6">تواصل معنا مباشرة</h3>
+                    <div class="space-y-4">
+                        <div class="flex items-center space-x-3 space-x-reverse">
+                            <div class="bg-primary-600 p-2 rounded-lg">
+                                <i class="ri-map-pin-line text-lg"></i>
+                            </div>
+                            <span class="text-blue-100">تبوك، السعودية (خدمة عن بعد للجميع)</span>
+                        </div>
+                        <div class="flex items-center space-x-3 space-x-reverse">
+                            <div class="bg-primary-600 p-2 rounded-lg">
+                                <i class="ri-whatsapp-line text-lg text-green-400"></i>
+                            </div>
+                            <a class="text-blue-100 hover:text-white" dir="ltr" href="https://wa.me/966564084838" rel="noopener noreferrer" target="_blank">
+                                +966 56 408 4838
+                            </a>
+                        </div>
+                        <div class="flex items-center space-x-3 space-x-reverse">
+                            <div class="bg-primary-600 p-2 rounded-lg">
+                                <i class="ri-mail-line text-lg"></i>
+                            </div>
+                            <a class="text-blue-100 hover:text-white" dir="ltr" href="mailto:saudienglishclub@gmail.com">
+                                saudienglishclub@gmail.com
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="border-t border-primary-600 pt-8 text-center">
+                <p class="text-blue-200">&copy; 2025 أستاذ أحمد - جميع الحقوق محفوظة</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Fixed WhatsApp Button -->
+    <a class="fixed bottom-6 right-6 whatsapp-button w-16 h-16 rounded-full shadow-lg z-50 opacity-0 invisible transition-all duration-300 flex items-center justify-center"
+       href="https://wa.me/966564084838"
+       target="_blank"
+       rel="noopener noreferrer"
+       id="whatsapp-fixed"
+       aria-label="تواصل عبر واتساب">
+        <i class="ri-whatsapp-line text-2xl"></i>
+    </a>
+
+    <!-- Video Modal -->
+    <div id="videoModal" class="fixed inset-0 bg-black bg-opacity-75 z-50 hidden flex items-center justify-center p-4" role="dialog" aria-labelledby="videoModalTitle" aria-modal="true">
+        <div class="bg-white rounded-2xl max-w-4xl w-full p-8 relative">
+            <button onclick="closeVideoModal()" class="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition-colors z-10" aria-label="إغلاق الفيديو">
+                <i class="ri-close-line text-2xl"></i>
+            </button>
+
+            <div class="text-center mb-6">
+                <h3 id="videoModalTitle" class="text-2xl font-bold text-gray-800 mb-2">الفيديو التعريفي</h3>
+                <p class="text-gray-600">تعرف على طريقة أستاذ أحمد في التعليم</p>
+            </div>
+
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="الفيديو التعريفي" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+
+    <!-- Enhanced Ebook Modal -->
+    <div id="ebookModal" class="fixed inset-0 bg-black bg-opacity-50 z-50 hidden flex items-center justify-center p-4" role="dialog" aria-labelledby="ebookModalTitle" aria-modal="true">
+        <div class="bg-white rounded-2xl max-w-md w-full p-8 relative animate-fadeIn">
+            <button onclick="closeEbookModal()" class="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition-colors" aria-label="إغلاق نافذة الكتاب المجاني">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                </svg>
+            </button>
+
+            <div class="text-center mb-6">
+                <div class="w-16 h-16 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253z"></path>
+                    </svg>
+                </div>
+                <h3 id="ebookModalTitle" class="text-2xl font-bold text-gray-800 mb-2">احصل على الكتاب المجاني</h3>
+                <p class="text-gray-600">7 طرق لتعليم طفلك الإنجليزية في المنزل بدون تعقيد</p>
+            </div>
+
+            <form id="ebookForm" class="space-y-4">
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">الاسم الكامل</label>
+                    <input type="text" id="parentName" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all" placeholder="اكتب اسمك الكامل">
+                </div>
+
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">رقم الواتساب</label>
+                    <input type="tel" id="whatsappNumber" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all" placeholder="966xxxxxxxxx" pattern="[0-9]{12}">
+                </div>
+
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">عمر الطفل</label>
+                    <select id="childAge" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all">
+                        <option value="">اختر عمر الطفل</option>
+                        <option value="10-12">10-12 سنة</option>
+                        <option value="13-15">13-15 سنة</option>
+                        <option value="16-18">16-18 سنة</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="w-full bg-gradient-to-r from-blue-500 to-purple-600 text-white py-3 rounded-lg font-semibold hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105">
+                    احصل على الكتاب الآن
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Enhanced Sentences Modal -->
+    <div id="sentencesModal" class="fixed inset-0 bg-black bg-opacity-50 z-50 hidden flex items-center justify-center p-4" role="dialog" aria-labelledby="sentencesModalTitle" aria-modal="true">
+        <div class="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto p-8 relative animate-fadeIn">
+            <button onclick="closeSentencesModal()" class="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition-colors" aria-label="إغلاق نافذة الجمل اليومية">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                </svg>
+            </button>
+
+            <div class="text-center mb-8">
+                <div class="w-16 h-16 bg-gradient-to-r from-green-500 to-teal-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path>
+                    </svg>
+                </div>
+                <h3 id="sentencesModalTitle" class="text-2xl font-bold text-gray-800 mb-2">30 جملة للمحادثات اليومية</h3>
+                <p class="text-gray-600">استخدم هذه الجمل للتحدث مع طفلك باللغة الإنجليزية يومياً بدون ملل</p>
+            </div>
+
+            <div class="grid gap-6">
+                <!-- Greetings Section -->
+                <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6">
+                    <h4 class="font-bold text-gray-800 mb-4 text-lg flex items-center">
+                        <i class="ri-sun-line ml-2 text-blue-600"></i>
+                        التحيات والمجاملات
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-blue-600 font-semibold">Good morning!</span>
+                                <span class="text-gray-600 text-sm">صباح الخير!</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">استخدمها في الصباح</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-blue-600 font-semibold">How are you today?</span>
+                                <span class="text-gray-600 text-sm">كيف حالك اليوم؟</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">سؤال ودود يومياً</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-blue-600 font-semibold">Have a great day!</span>
+                                <span class="text-gray-600 text-sm">أتمنى لك يوماً رائعاً!</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">تمنيات إيجابية</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-blue-600 font-semibold">Thank you so much!</span>
+                                <span class="text-gray-600 text-sm">شكراً جزيلاً!</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">تعبير عن الامتنان</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Daily Activities Section -->
+                <div class="bg-gradient-to-r from-green-50 to-emerald-50 rounded-xl p-6">
+                    <h4 class="font-bold text-gray-800 mb-4 text-lg flex items-center">
+                        <i class="ri-home-line ml-2 text-green-600"></i>
+                        الأنشطة اليومية
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-green-600 font-semibold">What did you do today?</span>
+                                <span class="text-gray-600 text-sm">ماذا فعلت اليوم؟</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">حديث عن الأنشطة</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-green-600 font-semibold">Let's play together!</span>
+                                <span class="text-gray-600 text-sm">دعنا نلعب معاً!</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">دعوة للعب ممتع</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-green-600 font-semibold">Time for bed!</span>
+                                <span class="text-gray-600 text-sm">وقت النوم!</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">روتين يومي هادئ</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-green-600 font-semibold">Good night, sweet dreams!</span>
+                                <span class="text-gray-600 text-sm">تصبح على خير، أحلام سعيدة!</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">تحية نوم دافئة</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- School & Friends Section -->
+                <div class="bg-gradient-to-r from-purple-50 to-pink-50 rounded-xl p-6">
+                    <h4 class="font-bold text-gray-800 mb-4 text-lg flex items-center">
+                        <i class="ri-school-line ml-2 text-purple-600"></i>
+                        المدرسة والأصدقاء
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-purple-600 font-semibold">How was school today?</span>
+                                <span class="text-gray-600 text-sm">كيف كان المدرسة اليوم؟</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">حديث عن المدرسة</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-purple-600 font-semibold">What did you learn?</span>
+                                <span class="text-gray-600 text-sm">ماذا تعلمت؟</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">مناقشة الدروس</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-purple-600 font-semibold">Let's study together!</span>
+                                <span class="text-gray-600 text-sm">دعنا ندرس معاً!</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">مساعدة في الواجبات</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="text-purple-600 font-semibold">Great job!</span>
+                                <span class="text-gray-600 text-sm">عمل رائع!</span>
+                            </div>
+                            <p class="text-gray-600 text-sm">تشجيع وتحفيز</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center mt-8">
+                <p class="text-gray-600 mb-4">ابدأ بحديث يومي قصير بالإنجليزية - النتائج ستذهلك!</p>
+                <a href="https://wa.me/966564084838?text=أريد مساعدة في تطبيق هذه الجمل مع طفلي" class="whatsapp-button inline-flex items-center px-6 py-3 text-white rounded-lg font-semibold" target="_blank" rel="noopener noreferrer">
+                    <i class="ri-whatsapp-line ml-2"></i>
+                    احجز جلسة تجريبية مجانية
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Supabase Integration -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+    <script>
+        // Initialize Supabase
+        const supabase = window.supabase.createClient(
+            'https://lqpoacfeqnkkhdnsdbuv.supabase.co',
+            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxxcG9hY2ZlcW5ra2hkbnNkYnV2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTk0MzUwODEsImV4cCI6MjA3NTAxMTA4MX0.VvgtSty8H6v2S6wqV9R9B5P2BkWaauRNWDzz4HRcn0Y'
+        );
+
+        // Check authentication status
+        supabase.auth.getUser().then(({ data: { user } }) => {
+            if (user) {
+                const firstName = user.user_metadata?.first_name || 'المستخدم';
+
+                document.getElementById('loginBtn')?.classList.add('hidden');
+                document.getElementById('userAccountBtn')?.classList.remove('hidden');
+                document.getElementById('userNameText') ? document.getElementById('userNameText').textContent = firstName : null;
+
+                document.getElementById('mobileLoginBtn')?.classList.add('hidden');
+                document.getElementById('mobileUserAccountBtn')?.classList.remove('hidden');
+                document.getElementById('mobileUserNameText') ? document.getElementById('mobileUserNameText').textContent = firstName : null;
+            }
+        });
+
+        // Enhanced Modal Functions
+        function openVideoModal() {
+            document.getElementById('videoModal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeVideoModal() {
+            document.getElementById('videoModal').classList.add('hidden');
+            document.body.style.overflow = 'auto';
+        }
+
+        function openEbookModal() {
+            document.getElementById('ebookModal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeEbookModal() {
+            document.getElementById('ebookModal').classList.add('hidden');
+            document.body.style.overflow = 'auto';
+        }
+
+        function openSentencesModal() {
+            document.getElementById('sentencesModal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeSentencesModal() {
+            document.getElementById('sentencesModal').classList.add('hidden');
+            document.body.style.overflow = 'auto';
+        }
+
+        // Enhanced Mobile Menu Functions
+        function closeMobileMenu() {
+            document.getElementById('mobile-menu').classList.add('hidden');
+            const spans = document.getElementById('mobile-menu-toggle').querySelectorAll('span');
+            spans.forEach(span => {
+                span.style.transform = '';
+                span.style.opacity = '';
+            });
+            document.getElementById('mobile-menu-toggle').setAttribute('aria-expanded', 'false');
+        }
+
+        // Enhanced Form Handling
+        document.getElementById("ebookForm").addEventListener("submit", function(e) {
+            e.preventDefault();
+
+            const submitBtn = this.querySelector('button[type="submit"]');
+            const originalText = submitBtn.innerHTML;
+
+            submitBtn.disabled = true;
+            submitBtn.classList.add('loading');
+            submitBtn.innerHTML = '<span>جاري الإرسال...</span>';
+
+            const name = document.getElementById("parentName").value;
+            const whatsapp = document.getElementById("whatsappNumber").value;
+            const age = document.getElementById("childAge").value;
+
+            // Validate and normalize phone number
+            let normalizedWhatsapp = whatsapp.replace(/[^\d]/g, '');
+
+            if (normalizedWhatsapp.startsWith('0')) {
+                normalizedWhatsapp = '966' + normalizedWhatsapp.substring(1);
+            } else if (normalizedWhatsapp.startsWith('966')) {
+                // Already correct
+            } else if (normalizedWhatsapp.length === 9 && !normalizedWhatsapp.startsWith('966')) {
+                normalizedWhatsapp = '966' + normalizedWhatsapp;
+            }
+
+            if (!normalizedWhatsapp.match(/^966[0-9]{9}$/)) {
+                submitBtn.disabled = false;
+                submitBtn.classList.remove('loading');
+                submitBtn.innerHTML = originalText;
+                alert("الرجاء إدخال رقم واتساب صحيح (مثال: 966501234567 أو 0501234567)");
+                return;
+            }
+
+            const message = `مرحباً، أريد الحصول على الكتاب المجاني "7 طرق لتعليم طفلك الإنجليزية في المنزل بدون تعقيد"
+
+الاسم: ${name}
+رقم الواتساب: ${normalizedWhatsapp}
+عمر الطفل: ${age}`;
+
+            setTimeout(() => {
+                const whatsappUrl = `https://wa.me/${normalizedWhatsapp}?text=${encodeURIComponent(message)}`;
+                window.open(whatsappUrl, "_blank");
+
+                alert("تم إرسال طلبك بنجاح! سنرسل لك الكتاب عبر الواتساب خلال دقائق.");
+
+                submitBtn.disabled = false;
+                submitBtn.classList.remove('loading');
+                submitBtn.innerHTML = originalText;
+
+                closeEbookModal();
+                document.getElementById("ebookForm").reset();
+            }, 500);
+        });
+
+        // Close modals with Escape key
+        document.addEventListener("keydown", function(e) {
+            if (e.key === "Escape") {
+                closeEbookModal();
+                closeSentencesModal();
+                closeVideoModal();
+            }
+        });
+
+        // Close modals when clicking outside
+        document.addEventListener("click", function(e) {
+            const ebookModal = document.getElementById("ebookModal");
+            const sentencesModal = document.getElementById("sentencesModal");
+            const videoModal = document.getElementById("videoModal");
+
+            if (e.target === ebookModal) closeEbookModal();
+            if (e.target === sentencesModal) closeSentencesModal();
+            if (e.target === videoModal) closeVideoModal();
+        });
+
+        // Enhanced Scroll and Animation Effects
+        document.addEventListener('DOMContentLoaded', function() {
+            // Mobile Menu Toggle
+            const menuToggle = document.getElementById('mobile-menu-toggle');
+            const mobileMenu = document.getElementById('mobile-menu');
+
+            if (menuToggle && mobileMenu) {
+                menuToggle.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    const isHidden = mobileMenu.classList.contains('hidden');
+                    mobileMenu.classList.toggle('hidden');
+
+                    const spans = menuToggle.querySelectorAll('span');
+                    spans.forEach((span, index) => {
+                        if (!isHidden) {
+                            span.style.transform = '';
+                            span.style.opacity = '';
+                        } else {
+                            if (index === 0) span.style.transform = 'rotate(45deg) translateY(8px)';
+                            if (index === 1) span.style.opacity = '0';
+                            if (index === 2) span.style.transform = 'rotate(-45deg) translateY(-8px)';
+                        }
+                    });
+
+                    menuToggle.setAttribute('aria-expanded', isHidden ? 'true' : 'false');
+                });
+
+                // Close menu when clicking menu links
+                const menuLinks = mobileMenu.querySelectorAll('a[href^="#"]');
+                menuLinks.forEach(link => {
+                    link.addEventListener('click', closeMobileMenu);
+                });
+
+                // Close menu when clicking outside
+                document.addEventListener('click', function(e) {
+                    if (!menuToggle.contains(e.target) && !mobileMenu.contains(e.target)) {
+                        if (!mobileMenu.classList.contains('hidden')) {
+                            closeMobileMenu();
+                        }
+                    }
+                });
+            }
+
+            // Pricing Tabs
+            const serviceTabs = document.querySelectorAll('.service-tab');
+            const pricingSections = document.querySelectorAll('.pricing-section');
+
+            serviceTabs.forEach(tab => {
+                tab.addEventListener('click', function() {
+                    const targetService = this.getAttribute('data-service');
+
+                    serviceTabs.forEach(t => {
+                        t.classList.remove('active', 'text-primary-600', 'bg-white');
+                        t.classList.add('text-gray-600');
+                    });
+                    this.classList.add('active', 'text-primary-600', 'bg-white');
+                    this.classList.remove('text-gray-600');
+
+                    pricingSections.forEach(section => {
+                        if (section.id === targetService + '-pricing') {
+                            section.classList.remove('hidden');
+                        } else {
+                            section.classList.add('hidden');
+                        }
+                    });
+                });
+            });
+
+            // Scroll Animations
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+
+            const observer = new IntersectionObserver(function(entries) {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('visible');
+                    }
+                });
+            }, observerOptions);
+
+            document.querySelectorAll('.animate-on-scroll').forEach(el => {
+                observer.observe(el);
+            });
+
+            // Fixed WhatsApp Button Animation
+            const whatsappFixed = document.getElementById('whatsapp-fixed');
+            if (whatsappFixed) {
+                window.addEventListener('scroll', function() {
+                    if (window.scrollY > 500) {
+                        whatsappFixed.classList.add('opacity-100', 'visible');
+                        whatsappFixed.classList.remove('opacity-0', 'invisible');
+                    } else {
+                        whatsappFixed.classList.remove('opacity-100', 'visible');
+                        whatsappFixed.classList.add('opacity-0', 'invisible');
+                    }
+                });
+            }
+
+            // Smooth Scrolling for Anchor Links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
